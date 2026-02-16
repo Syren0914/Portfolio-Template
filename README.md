@@ -1,6 +1,6 @@
 ## Portfolio
 
-A simple personal portfolio website for **Erdene Batbayar**.
+A simple personal portfolio website for **Beginner**.
 
 ### Preview locally
 - Open `index.html` directly in your browser, or
